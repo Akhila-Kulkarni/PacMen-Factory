@@ -1,6 +1,6 @@
 # PacMen-Factory
 Many images of PacMan bouncing around
-<h1><img src="https://github.com/Akhila-Kulkarni/PacMen-Factory/blob/main/PacMan1.png" alt="Pacmen" width="15%"></h1>
+<h1><img src="https://github.com/Akhila-Kulkarni/PacMen-Factory/blob/main/images/PacMan1.png" alt="Pacmen" width="15%"></h1>
 > Version 0.1
 
 
